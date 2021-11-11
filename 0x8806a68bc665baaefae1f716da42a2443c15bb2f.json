@@ -1,0 +1,35 @@
+{
+"symbol": "PFT",
+"name": "Pitch Finance",
+"type": "BEP20",
+"address": "0x8806a68bc665baaefae1f716da42a2443c15bb2f",
+"ens_address": "",
+"decimals": 9,
+"website": "https://pitchfinance.app",
+"logo": {
+"src": "https://pitchfinance.app/wp-content/uploads/2021/11/Pitch-Finance-Logo-new-32-x-32.png",
+"width": "32px",
+"height": "32px",
+"ipfs_hash": ""
+},
+"support": {
+"email": "info@pitchfinance.app",
+"url": "https://pitchfinance.app"
+},
+"social": {
+"blog": "",
+"chat": "https://t.me/pitchfinancecommunity",
+"discord": "",
+"facebook": "https://www.facebook.com/PitchFinanceToken",
+"forum": "",
+"github": "https://github.com/PitchFinance",
+"gitter": "",
+"instagram": "",
+"linkedin": "",
+"reddit": "",
+"slack": "",
+"telegram": "https://t.me/pitchfinancecommunity",
+"twitter": "https://twitter.com/Pitch_Finance",
+"youtube": ""
+}
+}
